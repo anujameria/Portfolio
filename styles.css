@@ -733,20 +733,24 @@ footer {
         grid-template-columns: repeat(1, 1fr); 
     }
 
+    #skills {
+        padding-top: 25%;
+    }
+
     #Services {
-        padding-top: 200px;
+        padding-top: 75%;
     }
 
     #Blog {
-        padding-top: 200%;
+        padding-top: 260%;
     }
 
     #Contact {
-        padding-top: 350%;
+        padding-top: 440%;
     }
 
     footer {
-        padding-top: 175%;
+        padding-top: 190%;
     }
 
 }
