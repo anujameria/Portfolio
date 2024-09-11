@@ -734,22 +734,20 @@ footer {
     }
 
     #skills {
-        padding-top: 20%;
-        margin-top: 35%;
+        margin-top: 75%;
+        margin-bottom: 50%;
     }
 
     #Services {
-        padding-top: 40%;
-        margin-bottom: 40%;
+        margin-bottom: 100%;
     }
 
     #Blog {
-        padding-top: 205%;
-        margin-top: 75%;
+        margin-top: 175%;
     }
 
     #Contact {
-        padding-top: 375%;
+        margin-top: 285%;
     }
 
     footer {
